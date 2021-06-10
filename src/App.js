@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/" exact component={() => <BeeHome />} />
+        <Route path="/big-bee" exact component={() => <BeeHome />} />
         <Route path="/beealgo" exact component={() => <BeeAlgo />} />
       </Switch>
     </Router>
