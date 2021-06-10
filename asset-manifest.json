@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/big-bee/static/css/main.f63287ec.chunk.css",
-    "main.js": "/big-bee/static/js/main.5e72ac34.chunk.js",
-    "main.js.map": "/big-bee/static/js/main.5e72ac34.chunk.js.map",
+    "main.js": "/big-bee/static/js/main.fc45325d.chunk.js",
+    "main.js.map": "/big-bee/static/js/main.fc45325d.chunk.js.map",
     "runtime-main.js": "/big-bee/static/js/runtime-main.03739f1b.js",
     "runtime-main.js.map": "/big-bee/static/js/runtime-main.03739f1b.js.map",
-    "static/js/2.54f15585.chunk.js": "/big-bee/static/js/2.54f15585.chunk.js",
-    "static/js/2.54f15585.chunk.js.map": "/big-bee/static/js/2.54f15585.chunk.js.map",
+    "static/js/2.a87067ec.chunk.js": "/big-bee/static/js/2.a87067ec.chunk.js",
+    "static/js/2.a87067ec.chunk.js.map": "/big-bee/static/js/2.a87067ec.chunk.js.map",
     "static/js/3.53ef29c1.chunk.js": "/big-bee/static/js/3.53ef29c1.chunk.js",
     "static/js/3.53ef29c1.chunk.js.map": "/big-bee/static/js/3.53ef29c1.chunk.js.map",
     "index.html": "/big-bee/index.html",
     "static/css/main.f63287ec.chunk.css.map": "/big-bee/static/css/main.f63287ec.chunk.css.map",
-    "static/js/2.54f15585.chunk.js.LICENSE.txt": "/big-bee/static/js/2.54f15585.chunk.js.LICENSE.txt",
+    "static/js/2.a87067ec.chunk.js.LICENSE.txt": "/big-bee/static/js/2.a87067ec.chunk.js.LICENSE.txt",
     "static/media/bee.cad6c7be.png": "/big-bee/static/media/bee.cad6c7be.png"
   },
   "entrypoints": [
     "static/js/runtime-main.03739f1b.js",
-    "static/js/2.54f15585.chunk.js",
+    "static/js/2.a87067ec.chunk.js",
     "static/css/main.f63287ec.chunk.css",
-    "static/js/main.5e72ac34.chunk.js"
+    "static/js/main.fc45325d.chunk.js"
   ]
 }
