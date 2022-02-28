@@ -16,8 +16,9 @@ function BeeAlgo() {
         <div className="number-input">
             <input
                 type="number"
+                placeholder=""
                 value={number1}
-                onChange={e => setNumber1(+e.target.value)}               
+                onChange={e => setNumber1(+e.target.value)}    
             />
         </div>
         <br />
