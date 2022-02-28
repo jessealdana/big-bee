@@ -3,7 +3,7 @@
   
  ## Description
 
-  This app gives the user a target number for the unpublished highest rank in the New York Times Spelling Bee game.
+  This app gives the user a target number for the highest rank in the New York Times Spelling Bee game. It is calculated with the assumption that Genius Level is 70% of the total possible score with a margin of error of one or two points.
 
   https://github.com/jessealdana/big-bee
 
